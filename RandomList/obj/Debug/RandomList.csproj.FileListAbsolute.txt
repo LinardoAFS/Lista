@@ -1,0 +1,7 @@
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\bin\Debug\RandomList.exe.config
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\bin\Debug\RandomList.exe
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\bin\Debug\RandomList.pdb
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\obj\Debug\RandomList.csprojAssemblyReference.cache
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\obj\Debug\RandomList.csproj.CoreCompileInputs.cache
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\obj\Debug\RandomList.exe
+D:\INTEC\OneDrive - INTEC\Trimestre #8\Tendencia en Desarrollo de Aplicaciones\RandomList\RandomList\obj\Debug\RandomList.pdb
